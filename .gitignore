@@ -1,0 +1,18 @@
+.vs/
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+UserSettings/
+*.csproj
+*.sln
+*.unitypackage
+.DS_Store
+.vs/
+
+# Logs
+*.log
+
+# Auto-generated files
+UpgradeLog.htm
